@@ -9,4 +9,3 @@
 6. php artisan migrate --seed   - Migrēt, seedot (būs tabulas ar random datiem)
 7. palaist sql un apache serveri
 8. localhost:8000 - piereģistrējoties, var aplūkot visu.
-# visi_forsi_produkti
